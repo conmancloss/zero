@@ -1,9 +1,16 @@
 [
   {
+    "name": "xbox",
+    "image": "https://th.bing.com/th/id/R.7c4eee30fcf8358a311d05a7af6df8fe?rik=4RTNLFgOiHTgQA&pid=ImgRaw&r=0",
+    "link": "https://www.xbox.com/en-us/play",
+    "categories": ["all"],
+  },
+  {
     "name": "! Create Custom App",
     "image": "/assets/media/icons/custom.webp",
     "categories": ["all"],
     "custom": "true"
+    
   },
   {
     "name": "! Interstellar FAQ/Docs",
