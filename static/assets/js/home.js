@@ -179,6 +179,7 @@ const SplashT = [
   "Check out the settings page",
   "zero bad games",
   "zero bad games",
+  "welcome to zero",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
