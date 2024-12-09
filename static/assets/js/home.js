@@ -180,6 +180,7 @@ const SplashT = [
   "zero bad games",
   "zero bad games",
   "welcome to zero",
+  "i like my chez dripy bruh",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
