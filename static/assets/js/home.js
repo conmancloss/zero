@@ -181,6 +181,12 @@ const SplashT = [
   "zero bad games",
   "welcome to zero",
   "i like my chez dripy bruh",
+  "hello and welcome",
+  "what a minute, who are you?",
+  "sound it out zer--o",
+  "with great power comes great resonsability",
+  "it's five o'clock some where",
+  "1000 vists can we keep it up?",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
